@@ -10,7 +10,7 @@
 </div>
 
 
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
+<hr style="border: 1px solid #3498db; margin: 20px 0;"> 
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
