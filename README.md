@@ -1,7 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -9,22 +8,15 @@
   </ul>
 </div>
 
-
-<hr style="border: 1px solid #3498db; margin: 20px 0;">
-
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
   </a>
 </div>
 
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Confusion+is+part+of+Programming&hearts;++,;Artificial+Intelligence+Student,;Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Confusion+is+part+of+Programming&hearts;++;Artificial+Intelligence+Student,;Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
 </p>
-
-
-<br>
 
 <!--Intro start-->
 - 🔭 I’m currently working on **a project with Cummins to build a Data Filtering and Analysis tool**
@@ -37,7 +29,6 @@
 
 - ⚡ Fun fact, **I'm a Lucid Dreamer**
 <!--Intro end-->
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
