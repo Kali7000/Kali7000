@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **SQL and API integration**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I have a keen interest in AI. So,I'm learning **ML and DS**
 
 - 💬 Ask me about **Future of Humanity and technology**
 
