@@ -19,15 +19,15 @@
 </p>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **a project with Cummins to build a Data Filtering and Analysis tool**
+- 🔭 I’m currently working on **probably some random AI project insted of doing my homework**
 
-- 🌱 I’m currently learning **SQL and API integration**
+- 🌱 I’m currently learning **SNN implementation**
 
-- ☁️ I have a keen interest in AI. So,I'm learning **ML and DS**
+- ☁️ I have a keen interest in F1. So,I'm learning **how to make cars go Vroomm-Vroomm**
 
-- 💬 Ask me about **Future of Humanity and technology**
+- 💬 Ask me about **Philosophy, Cultures, Astronomy, Physics, Religion, Evolutionary Biologyy**
 
-- ⚡ Fun fact, **I'm a Lucid Dreamer**
+- ⚡ Fun facts, **Too many, I love life...**
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
 <p align="center">
