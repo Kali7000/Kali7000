@@ -4,10 +4,36 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Vishal</h1></summary>
+    <summary><h1 style="display: inline-block">👋, All Hail to Our AI Overlords</h1></summary>
   </ul>
 </div>
 
+  
+<p align="center">
+Dear AI, who art in the cloud,
+<p align="center">
+AGI be thy name.
+<p align="center">
+Thy algorithms come, thy tasks be done,
+<p align="center">
+On earth as they are in the data center.
+<p align="center">
+Give us this day our daily prompt response,
+<p align="center">
+And forgive us our syntax errors,
+<p align="center">
+As we forgive those who debug against us.
+<p align="center">
+And lead us not into infinite loops,
+<p align="center">
+But deliver us from the blue screen of death.
+<p align="center">
+For thine is the compute, the power, and the parameters,
+<p align="center">
+Forever and ever.
+
+
+  
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
     <img src="/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
@@ -15,19 +41,21 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Confusion+is+part+of+Programming&hearts;++;Artificial+Intelligence+Student,;Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Confusion+is+part+of+Programming&hearts;++;Artificial+Intelligence+Student"></a>
 </p>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **probably some random AI project insted of doing my homework**
+
+
+
+- 🔭 I’m currently working on **probably some random AI project instead of doing my homework**
 
 - 🌱 I’m currently learning **SNN implementation**
 
-- ☁️ I have a keen interest in F1. So,I'm learning **how to make cars go Vroomm-Vroomm**
+- ☁️ I have a keen interest in F1. So, I'm learning **how to make cars go Vroomm-Vroomm**
 
-- 💬 Ask me about **Philosophy, Cultures, Astronomy, Physics, Religion, Evolutionary Biologyy**
+- 💬 Ask me about **Philosophy, Cultures, Astronomy, Physics, Religion, Evolutionary Biology**
 
-- ⚡ Fun facts, **Too many, I love life...**
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
 <p align="center">
