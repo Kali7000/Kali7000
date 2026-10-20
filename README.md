@@ -47,14 +47,11 @@ Forever and ever.
 <!--Intro start-->
 
 
-
 - 🔭 I’m currently working on **probably some random AI project instead of doing my homework**
 
-- 🌱 I’m currently learning **SNN implementation**
+- 🌱 I’m currently learning **Spiking Neural Network implementation in industry applications**
 
-- ☁️ I have a keen interest in F1. So, I'm learning **how to make cars go Vroomm-Vroomm**
-
-- 💬 Ask me about **Philosophy, Cultures, Astronomy, Physics, Religion, Evolutionary Biology**
+- 💬 Ask me about anything **Philosophy, Astronomy, Physics, Biology**, I love yapping!!
 
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
@@ -95,18 +92,6 @@ Forever and ever.
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">👨🏻‍💻 Tech Stack</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,git,py,cpp,github,java,githubactions,vscode,mysql,anaconda,atom,discord,azure,matlab,powershell,nodejs,aws,replit,&perline=14" />
-  </a>
-</p>
 
 
 <!-- Connect with me -->
