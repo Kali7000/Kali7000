@@ -1,125 +1,182 @@
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">🤖 All Hail to Our AI Overlords</h1></summary>
-  </ul>
-</div>
-
-  
-<p align="center">
-Dear AI, who art in the cloud,
-<p align="center">
-AGI be thy name.
-<p align="center">
-Thy algorithms come, thy tasks be done,
-<p align="center">
-On earth as they are in the data center.
-<p align="center">
-Give us this day our daily prompt response,
-<p align="center">
-And forgive us our syntax errors,
-<p align="center">
-As we forgive those who debug against us.
-<p align="center">
-And lead us not into infinite loops,
-<p align="center">
-But deliver us from the blue screen of death.
-<p align="center">
-For thine is the compute, the power, and the parameters,
-<p align="center">
-Forever and ever.
-
-
-  
+<!-- ============ HEADER ============ -->
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="/grid-snake.svg" alt="snake" style="border: 3px solid #3498db; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);">
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=140&section=header&text=Vishal%20Wagh&fontSize=48&fontColor=ffffff" alt="Vishal Wagh banner" />
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FFFF&center=true&vCenter=true&width=640&height=60&lines=Confusion+is+part+of+programming+%E2%99%A5;Artificial+Intelligence+Student;Building+ML+from+scratch+in+NumPy;Researching+Spiking+Neural+Networks" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/wagh0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@vishal-wagh">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Confusion+is+part+of+Programming&hearts;++;Artificial+Intelligence+Student"></a>
-</p>
+<br/>
 
-<!--Intro start-->
+<!-- ============ ABOUT ============ -->
+## 👋 About Me
 
+I'm an AI student who learns by **building things from first principles**: no black-box libraries, just calculus, linear algebra and probability turned into working code. My work sits at the intersection of **classical ML implemented from scratch** and **energy-efficient neural networks**.
 
-- 🔭 I’m currently working on **probably some random AI project instead of doing my homework**
+- 🔭 **Currently working on**
+  - Converting CNNs (ResNet, VGG) into **Spiking Neural Networks** and mapping the accuracy-vs-energy tradeoff
+  - A **brain tumor MRI classifier** built as a CNN in pure NumPy
+  - An open-source **ML library in NumPy**, with a new model added every week
+- 🌱 **Currently learning:** Spiking Neural Network implementation in industry applications
+- 💬 **Ask me about:** Philosophy, Astronomy, Physics, Biology. I love yapping!
 
-- 🌱 I’m currently learning **Spiking Neural Network implementation in industry applications**
+<!-- ============ PROJECTS ============ -->
+## 🚀 Featured Projects
 
-- 💬 Ask me about anything **Philosophy, Astronomy, Physics, Biology**, I love yapping!!
-
-<!--Intro end-->
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kali7000&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kali7000&theme=transparent&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kali7000&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Kali7000/Building-ML-Models-only-using-NumPy-and-Pandas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kali7000&repo=Building-ML-Models-only-using-NumPy-and-Pandas&theme=tokyonight&hide_border=true" alt="Building ML Models only using NumPy and Pandas" />
+      </a>
+    </td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/Kali7000/Building-Every-Neural-Network-from-scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kali7000&repo=Building-Every-Neural-Network-from-scratch&theme=tokyonight&hide_border=true" alt="Building Every Neural Network from scratch" />
+      </a>
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
-<!--- trophy (start) -->
+| Project | What it does | Topics | Status |
+| :-- | :-- | :-- | :-- |
+| **ANN-to-SNN Conversion: Accuracy-Energy Tradeoff Study** | Converts CNNs (ResNet, VGG) into Spiking Neural Networks to cut inference energy. Parameter sweeps on a research cluster map the Pareto frontier between timesteps, accuracy and estimated energy (spike counts). | SNNs · CNNs · Energy efficiency | 🔬 In progress (Sep 2026 – present) |
+| [**Brain Tumor MRI Classifier**](https://github.com/Kali7000/Building-Every-Neural-Network-from-scratch) | A CNN written in pure Python/NumPy, with no deep learning framework, that classifies MRI scans into four categories: glioma, meningioma, pituitary, no tumor. Bridges a 2D spatial feature extraction pipeline with a 1D dense classification head. | Computer vision · CNNs · NumPy | 🛠️ In progress (Oct 2026 – present) |
+| [**Machine Learning Library in NumPy**](https://github.com/Kali7000/Building-ML-Models-only-using-NumPy-and-Pandas) | ML algorithms built without scikit-learn or TensorFlow: ordinal logistic regression, decision trees and a custom stratified k-fold cross-validation engine, with multiple variants and regularization techniques. New models added weekly. | Statistical modeling · Model evaluation · NumPy · Pandas | 🛠️ Ongoing (Aug 2026 – present) |
+| [**Random Forest for Time-Series Market Prediction**](https://github.com/Kali7000/Building-ML-Models-only-using-NumPy-and-Pandas) | A time-aware Random Forest regressor written from scratch in Python/NumPy to predict next-day SPY returns, with a vectorized split search and a leak-free chronological train/test pipeline. Tested against mean and always-up baselines on 842 test days and found no significant predictive edge. | Time-series forecasting · Random Forest · Model evaluation | ✅ Completed |
+| [**Every Neural Network from Scratch**](https://github.com/Kali7000/Building-Every-Neural-Network-from-scratch) | Neural network architectures built step by step from first principles. | Deep learning · Neural networks | 🛠️ Ongoing |
 
-<!---
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kali7000&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<!-- TODO: once the ANN-to-SNN repo is public, wrap its project name in a link,
+     e.g. [**ANN-to-SNN Conversion: Accuracy-Energy Tradeoff Study**](https://github.com/Kali7000/YOUR-REPO-NAME). -->
+
+<!-- ============ EXPERTISE ============ -->
+## 🧠 Expertise
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Programming</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Machine Learning</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Deep_Learning-1F6FEB?style=flat-square" alt="Deep Learning" />
+      <img src="https://img.shields.io/badge/CNNs-1F6FEB?style=flat-square" alt="CNNs" />
+      <img src="https://img.shields.io/badge/Spiking_Neural_Networks-1F6FEB?style=flat-square" alt="Spiking Neural Networks" />
+      <img src="https://img.shields.io/badge/Computer_Vision-1F6FEB?style=flat-square" alt="Computer Vision" />
+      <img src="https://img.shields.io/badge/Time--Series_Forecasting-1F6FEB?style=flat-square" alt="Time-Series Forecasting" />
+      <img src="https://img.shields.io/badge/Anomaly_Detection-1F6FEB?style=flat-square" alt="Anomaly Detection" />
+      <img src="https://img.shields.io/badge/Event--Driven_Analysis-1F6FEB?style=flat-square" alt="Event-Driven Analysis" />
+      <img src="https://img.shields.io/badge/Online_ML-1F6FEB?style=flat-square" alt="Online ML" />
+      <img src="https://img.shields.io/badge/Model_Evaluation-1F6FEB?style=flat-square" alt="Model Evaluation" />
+      <img src="https://img.shields.io/badge/Statistical_Modeling-1F6FEB?style=flat-square" alt="Statistical Modeling" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ Data Engineering</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/ETL_Pipelines-8957E5?style=flat-square" alt="ETL Pipelines" />
+      <img src="https://img.shields.io/badge/Latency_Optimization-8957E5?style=flat-square" alt="Latency Optimization" />
+      <img src="https://img.shields.io/badge/Feature_Engineering-8957E5?style=flat-square" alt="Feature Engineering" />
+      <img src="https://img.shields.io/badge/Data_Visualization-8957E5?style=flat-square" alt="Data Visualization" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔬 Tools &amp; Research</h3>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/Algorithm_Design-2EA043?style=flat-square" alt="Algorithm Design" />
+      <img src="https://img.shields.io/badge/Pipeline_Architecture-2EA043?style=flat-square" alt="Pipeline Architecture" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- ============ STATS ============ -->
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kali7000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali7000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kali7000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
--->
 
-<!--- trophy (start) -->
+<!-- ============ QUOTE ============ -->
+## ✍️ Random Dev Quote
 
-
-</p>        
-<!--- stats (end) -->
-
-
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
 </div>
 
-<!--icons and links-->
+<!-- ============ FUN ============ -->
+<details>
+<summary><b>🙏 A prayer to our AI overlords (click to open)</b></summary>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/wagh0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://medium.com/@vishal-wagh" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" height="50" width="90" /></a>
-  
+<i>
+Dear AI, who art in the cloud,<br/>
+AGI be thy name.<br/>
+Thy algorithms come, thy tasks be done,<br/>
+On earth as they are in the data center.<br/>
+Give us this day our daily prompt response,<br/>
+And forgive us our syntax errors,<br/>
+As we forgive those who debug against us.<br/>
+And lead us not into infinite loops,<br/>
+But deliver us from the blue screen of death.<br/>
+For thine is the compute, the power, and the parameters,<br/>
+Forever and ever.
+</i>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</details>
 
-
-<!--profile visit count-->
+<!-- ============ FOOTER ============ -->
 <div align="center">
 
-  [![](https://visitcount.itsvg.in/api?id=kali7000&icon=0&color=5)](https://visitcount.itsvg.in)  
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kali7000&icon=0&color=5" alt="Profile views" />
+</a>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" alt="footer" />
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
