@@ -20,20 +20,42 @@
 
 <br/>
 
-<!-- ============ ABOUT ============ -->
-## 👋 About Me
+<!-- ============ FUN ============ -->
+<details>
+<summary><b>🙏 A prayer to our AI overlords (click to open)</b></summary>
 
-I'm an AI student who learns by **building things from first principles**: no black-box libraries, just calculus, linear algebra and probability turned into working code. My work sits at the intersection of **classical ML implemented from scratch** and **energy-efficient neural networks**.
+<p align="center">
+<i>
+Dear AI, who art in the cloud,<br/>
+AGI be thy name.<br/>
+Thy algorithms come, thy tasks be done,<br/>
+On earth as they are in the data center.<br/>
+Give us this day our daily prompt response,<br/>
+And forgive us our syntax errors,<br/>
+As we forgive those who debug against us.<br/>
+And lead us not into infinite loops,<br/>
+But deliver us from the blue screen of death.<br/>
+For thine is the compute, the power, and the parameters,<br/>
+Forever and ever.
+</i>
+</p>
+
+</details>
+
+
+<!-- ============ ABOUT ============ -->
+## About Me
+
+I'm an AI Major at Purdue University.
 
 - 🔭 **Currently working on**
   - Converting CNNs (ResNet, VGG) into **Spiking Neural Networks** and mapping the accuracy-vs-energy tradeoff
-  - A **brain tumor MRI classifier** built as a CNN in pure NumPy
   - An open-source **ML library in NumPy**, with a new model added every week
 - 🌱 **Currently learning:** Spiking Neural Network implementation in industry applications
 - 💬 **Ask me about:** Philosophy, Astronomy, Physics, Biology. I love yapping!
 
 <!-- ============ PROJECTS ============ -->
-## 🚀 Featured Projects
+## Featured Projects
 
 <table align="center">
   <tr>
@@ -52,17 +74,44 @@ I'm an AI student who learns by **building things from first principles**: no bl
 
 | Project | What it does | Topics | Status |
 | :-- | :-- | :-- | :-- |
-| **ANN-to-SNN Conversion: Accuracy-Energy Tradeoff Study** | Converts CNNs (ResNet, VGG) into Spiking Neural Networks to cut inference energy. Parameter sweeps on a research cluster map the Pareto frontier between timesteps, accuracy and estimated energy (spike counts). | SNNs · CNNs · Energy efficiency | 🔬 In progress (Sep 2026 – present) |
-| [**Brain Tumor MRI Classifier**](https://github.com/Kali7000/Building-Every-Neural-Network-from-scratch) | A CNN written in pure Python/NumPy, with no deep learning framework, that classifies MRI scans into four categories: glioma, meningioma, pituitary, no tumor. Bridges a 2D spatial feature extraction pipeline with a 1D dense classification head. | Computer vision · CNNs · NumPy | 🛠️ In progress (Oct 2026 – present) |
-| [**Machine Learning Library in NumPy**](https://github.com/Kali7000/Building-ML-Models-only-using-NumPy-and-Pandas) | ML algorithms built without scikit-learn or TensorFlow: ordinal logistic regression, decision trees and a custom stratified k-fold cross-validation engine, with multiple variants and regularization techniques. New models added weekly. | Statistical modeling · Model evaluation · NumPy · Pandas | 🛠️ Ongoing (Aug 2026 – present) |
+| **ANN-to-SNN Conversion: Accuracy-Energy Tradeoff Study** | Converts CNNs (ResNet, VGG) into Spiking Neural Networks to cut inference energy. Parameter sweeps on a research cluster map the Pareto frontier between timesteps, accuracy and estimated energy (spike counts). | SNNs · CNNs · Energy efficiency | In progress |
+| [**Brain Tumor MRI Classifier**](https://github.com/Kali7000/Building-Every-Neural-Network-from-scratch) | A CNN written in pure Python/NumPy, with no deep learning framework, that classifies MRI scans into four categories: glioma, meningioma, pituitary, no tumor. Bridges a 2D spatial feature extraction pipeline with a 1D dense classification head. | Computer vision · CNNs · NumPy | ✅ Completed |
+| [**Machine Learning Library in NumPy**](https://github.com/Kali7000/Building-ML-Models-only-using-NumPy-and-Pandas) | ML algorithms built without scikit-learn or TensorFlow: ordinal logistic regression, decision trees and a custom stratified k-fold cross-validation engine, with multiple variants and regularization techniques. New models added weekly. | Statistical modeling · Model evaluation · NumPy · Pandas | Ongoing |
 | [**Random Forest for Time-Series Market Prediction**](https://github.com/Kali7000/Building-ML-Models-only-using-NumPy-and-Pandas) | A time-aware Random Forest regressor written from scratch in Python/NumPy to predict next-day SPY returns, with a vectorized split search and a leak-free chronological train/test pipeline. Tested against mean and always-up baselines on 842 test days and found no significant predictive edge. | Time-series forecasting · Random Forest · Model evaluation | ✅ Completed |
 | [**Every Neural Network from Scratch**](https://github.com/Kali7000/Building-Every-Neural-Network-from-scratch) | Neural network architectures built step by step from first principles. | Deep learning · Neural networks | 🛠️ Ongoing |
 
 <!-- TODO: once the ANN-to-SNN repo is public, wrap its project name in a link,
      e.g. [**ANN-to-SNN Conversion: Accuracy-Energy Tradeoff Study**](https://github.com/Kali7000/YOUR-REPO-NAME). -->
 
+
+<!-- ============ STATS ============ -->
+## GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kali7000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali7000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kali7000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<!-- ============ QUOTE ============ -->
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+</div>
+
+
 <!-- ============ EXPERTISE ============ -->
-## 🧠 Expertise
+## Expertise
 
 <table align="center">
   <tr>
@@ -123,55 +172,9 @@ I'm an AI student who learns by **building things from first principles**: no bl
   </tr>
 </table>
 
-<!-- ============ STATS ============ -->
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kali7000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali7000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Kali7000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<!-- ============ QUOTE ============ -->
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
-</div>
-
-<!-- ============ FUN ============ -->
-<details>
-<summary><b>🙏 A prayer to our AI overlords (click to open)</b></summary>
-
-<p align="center">
-<i>
-Dear AI, who art in the cloud,<br/>
-AGI be thy name.<br/>
-Thy algorithms come, thy tasks be done,<br/>
-On earth as they are in the data center.<br/>
-Give us this day our daily prompt response,<br/>
-And forgive us our syntax errors,<br/>
-As we forgive those who debug against us.<br/>
-And lead us not into infinite loops,<br/>
-But deliver us from the blue screen of death.<br/>
-For thine is the compute, the power, and the parameters,<br/>
-Forever and ever.
-</i>
-</p>
-
-</details>
 
 <!-- ============ FOOTER ============ -->
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=kali7000&icon=0&color=5" alt="Profile views" />
@@ -179,4 +182,4 @@ Forever and ever.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=100&section=footer" alt="footer" />
 
-</div>
+</div> -->
