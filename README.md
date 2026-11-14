@@ -86,18 +86,6 @@ I'm an AI Major at Purdue University.
 
 <!-- ============ STATS ============ -->
 ## GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kali7000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kali7000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Kali7000&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
